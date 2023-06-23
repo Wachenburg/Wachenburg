@@ -1,9 +1,4 @@
-h1{
-    color: Yellow;
-}
-
-
-<h1> ### Hi there 👋</h1>
+### Hi there 👋
 <!--
 **Wachenburg/Wachenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
